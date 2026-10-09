@@ -32,4 +32,4 @@ an introduction, technical skills, DevOps projects and contact links.
 https://github.com/saniyabhujbal/DevOps-Task-5-GitHub-Pages
 
 ## Live Website
-Add your published GitHub Pages URL here after deployment.
+URL: https://saniyabhujbal.github.io/DevOps-Task-5-GitHub-Pages/
